@@ -1,0 +1,1 @@
+# streamdeck-goxlr-switch-playback-device
