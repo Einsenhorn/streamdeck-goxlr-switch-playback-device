@@ -1,6 +1,6 @@
 # streamdeck-goxlr-switch-playback-device
 
-It allows you to use a GOXLR And a Streamdeck with either a speaker or headset and switch from one to the other easily.
+It allows you to use a GOXLR & a Streamdeck with either a speaker or headset and switch from one to the other easily.
 
 
 # Find Your Speaker * Headset UUID
